@@ -17,5 +17,5 @@ void setup() {
 }
 
 void loop() {
-  // 아무 작업도 하지 않음
+
 }
